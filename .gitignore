@@ -103,3 +103,6 @@ ENV/
 # data sets
 train.csv
 test.csv
+
+# results
+submission.csv
